@@ -68,10 +68,7 @@ game.exe
 - Interactive CLI design
 - Inventory and combat systems
 
-## 🖼️ (Optional) Add a Screenshot
-To make your project stand out, add a screenshot or GIF of the game in action:
-```markdown
-![Odyssey Game Screenshot](screenshot.png)
+
 ```
 
 ## 📄 License
