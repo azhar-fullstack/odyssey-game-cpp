@@ -52,7 +52,7 @@ game.exe
 
 ## 📁 Project Structure
 ```
-7_P_F_odesseyGame_C++/
+odyssey-game-cpp/
 ├── Entity.cpp/.h      # Entity class (player/enemy)
 ├── Game.cpp/.h        # Game logic
 ├── Map.cpp/.h         # Map and navigation
